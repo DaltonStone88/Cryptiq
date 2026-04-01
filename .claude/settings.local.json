@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(unzip -l /c/Users/stone/Downloads/cryptiq_1.zip)",
+      "mcp__a1912a63-f5b8-4369-9341-11877c8ca4d7__get_project"
+    ]
+  }
+}
